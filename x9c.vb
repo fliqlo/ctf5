@@ -11,7 +11,7 @@
             MsgBox("Username: " + user & vbNewLine & "Password: " + pass & vbNewLine + "Nice, well done XD.")
             MsgBox("Don't forget to take a note")
             MsgBox("To submit the flag click ok")
-            Dim webAddress As String = "https://forms.gle/wPseLHdhKcFYthuG6"
+            Dim webAddress As String = "https://forms.gle/RSbKWsNJ8UPYpcAa6"
             Process.Start(webAddress)
         Else
             MsgBox("Try again :(")

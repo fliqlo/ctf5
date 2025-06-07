@@ -1,7 +1,7 @@
 ﻿Public Class Form1
     Private Sub LoginBtn_Click(sender As Object, e As EventArgs) Handles LoginBtn.Click
 
-        ' Oh you're here, you find me XD'
+        ' Oh you're here, you found me XD'
 
         Dim user As String = "admin"
         Dim pass As String = "home@123"
